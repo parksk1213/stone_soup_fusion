@@ -1,5 +1,5 @@
 Algorithm
-===
+=========
 
 .. autosummary::
    :toctree: generated
