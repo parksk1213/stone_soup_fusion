@@ -1,5 +1,5 @@
 Sensors
-===
+=======
 
 .. autosummary::
    :toctree: generated
