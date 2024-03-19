@@ -4,4 +4,4 @@ Sensors
 .. autosummary::
    :toctree: generated
 
-   sensors
+   lumache
