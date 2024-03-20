@@ -1,20 +1,18 @@
 Framework Design [#]_
 =====================
 
-Stone Soup is initially targeted at two different groups of users:
+Fusion Center is developed based on Stone Soup project, and also targeted at two different groups of users:
 
- - Academics conducting research into tracking and state estimation, looking to quickly develop
+ - Academics conducting research into **object tracking** and state estimation, looking to quickly develop
    algorithms, and compare against other algorithms assessed against metrics.
  - User, owners and processors of real data, looking to identify the best approach for their
    application, without the need for deep expertise required to implement many algorithms.
 
-The central theme of the Stone Soup design philosophy is interchangeability. The framework is
+The Fusion Center design philosophy is interchangeability. The framework is
 designed with the idea that users can easily insert their own components into existing constructs,
 and that they could mix and match components in new and unexpected ways. In support of this goal,
-the Stone Soup code architecture has been built on the principles of modularity and uniformity of
+the Fusion Center code architecture has been built on the principles of modularity and uniformity of
 external interfaces.
-
-Stone Soup is object oriented and makes use of encapsulation, abstraction and inheritance:
 
 Abstraction
   Stone Soup trackers are built as hierarchical objects. For example, a
