@@ -17,5 +17,9 @@ Contents
 .. toctree::
 
    design
+   tutorials
+   examples
    sensors
    simulations
+   contributing
+   license
