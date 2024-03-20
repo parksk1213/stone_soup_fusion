@@ -1,7 +1,7 @@
-Algorithm
-=========
+Simulations
+============
 
 .. autosummary::
    :toctree: generated
 
-   Algorithm
+   Simulations
