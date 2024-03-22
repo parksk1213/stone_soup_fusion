@@ -1,4 +1,4 @@
-Welcome to Fusion Center!
+Welcome to Fusion Center![#]_
 ===================================
 
 **Fusion Center** is a software project to provide the object tracking and state estimation community with a framework for the development and testing of tracking and state estimation algorithm.
@@ -9,7 +9,7 @@ Please see the Fusion Center :docs:'Framework Design' for better understanding o
 
 .. note::
 
-   This project is for **Object Tracking**.
+   This project is from **Fusion Lab**.
 
 Contents
 --------
@@ -21,5 +21,7 @@ Contents
    examples
    sensors
    simulations
+   api
+   usage
    contributing
    license
