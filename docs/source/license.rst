@@ -1,4 +1,4 @@
-Copyright & License[#]_
+Copyright & License
 ===================
 
 .. autosummary::
