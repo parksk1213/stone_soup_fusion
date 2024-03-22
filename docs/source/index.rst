@@ -18,7 +18,6 @@ Contents
 
 .. toctree::
 
-   design
    tutorials
    examples
    sensors
